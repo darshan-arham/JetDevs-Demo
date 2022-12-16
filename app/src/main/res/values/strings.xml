@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWorkMVVM</string>
+    <string name="jetdevs">JetDevs</string>
+    <string name="userName">Username</string>
+    <string name="password">Password</string>
+    <string name="pleaseEnter">Please enter </string>
+</resources>
